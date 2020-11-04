@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">WatchFilmes Aula</string>
+    <string name="iamgemLogo">ImagemLogoApp</string>
+    <string name="ProgressBar" />
+    <string name="loginUser">Usuário</string>
+    <string name="password">Senha</string>
+    <string name="RecoverPassword">Esqueceu sua senha?</string>
+    <string name="entryButton">Entrar</string>
+    <string name="registerButton">Cadastre-se</string>
+    <string name="saveUserCB">Lembrar de mim</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+</resources>
